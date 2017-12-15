@@ -1,0 +1,31 @@
+body {
+  background: #009999;
+  margin: 0; }
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto; }
+  .container h1, .container h4 {
+    text-align: center;
+    color: #666666;
+    font-family: 'Lobster', sans-serif; }
+  .container .line {
+    margin: 1em auto;
+    width: 120px;
+    height: 2px;
+    content: "";
+    border: 1px solid #666666;
+    background: #666666; }
+
+.text-box {
+  padding-top: 2em;
+  max-width: 600px;
+  margin: 0 auto; }
+  .text-box p {
+    font-family: 'Josefin Slab', serif;
+    font-style: italic;
+    font-size: 1.2em;
+    text-align: justify;
+    font-weight: 600; }
+
+/*# sourceMappingURL=style.css.map */

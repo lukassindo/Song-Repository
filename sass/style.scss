@@ -14,12 +14,12 @@ $color1: #666666;
 	font-family: 'Lobster', sans-serif;
 	}
 	.line {
-	margin: 1em auto;
-	width: 120px;
-	height: 2px;
-	content: "";
-	border: 1px solid $color1;
-	background: $color1;
+		margin: 1em auto;
+		width: 120px;
+		height: 2px;
+		content: "";
+		border: 1px solid $color1;
+		background: $color1;
 	}
 }
 
@@ -28,11 +28,11 @@ $color1: #666666;
 	max-width: 600px;
 	margin: 0 auto;
 	p {
-	font-family: 'Josefin Slab', serif;
-	font-style: italic;
-	font-size: 1.2em;
-	text-align: justify;
-	font-weight: 600;
+		font-family: 'Josefin Slab', serif;
+		font-style: italic;
+		font-size: 1.2em;
+		text-align: justify;
+		font-weight: 600;
 	}
 }
 

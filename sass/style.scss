@@ -9,9 +9,9 @@ $color1: #666666;
 	max-width: 1200px;
 	margin: 0 auto;
 	h1, h4 {
-	text-align: center;
-	color: $color1;
-	font-family: 'Lobster', sans-serif;
+		text-align: center;
+		color: $color1;
+		font-family: 'Lobster', sans-serif;
 	}
 	.line {
 		margin: 1em auto;
@@ -20,6 +20,14 @@ $color1: #666666;
 		content: "";
 		border: 1px solid $color1;
 		background: $color1;
+	}
+	a {
+		text-decoration: none;
+		color: $color1;
+		transition: all 2s;
+		&:hover {
+			color: black;
+		}
 	}
 }
 
@@ -35,10 +43,6 @@ $color1: #666666;
 		font-weight: 600;
 	}
 }
-
-
-
-
 
 
 

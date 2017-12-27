@@ -1,4 +1,4 @@
 
-.sass-cache
-node_modules
-package-lock.json
+.sass-cache/
+node_modules/
+

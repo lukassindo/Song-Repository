@@ -32,7 +32,9 @@ $color1: #666666;
 }
 
 .text-box {
-	padding-top: 2em;
+    display: flex;
+    flex-wrap: wrap;
+	padding-top: 3em;
 	max-width: 600px;
 	margin: 0 auto;
 	p {
